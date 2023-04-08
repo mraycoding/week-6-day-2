@@ -1,0 +1,142 @@
+.box1 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+    display: flex;
+    
+}
+.box2 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box3 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box4 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box5{
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box6 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box7 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box8 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box9 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box10 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box11 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box12 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box13 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box14 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box15 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box16 {
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+
+#boxes { display: grid;
+     grid-template-columns : repeat(5,1fr);
+      gap : 10px; 
+    align-content: center;
+    }
+
+
+.darkMode {
+    background-color: black;
+}
+
